@@ -1,8 +1,8 @@
 class Chainhook < Formula
   desc "Reorg-aware indexing engine for the Stacks & Bitcoin blockchains"
   homepage "https://github.com/hirosystems/chainhook"
-  url "https://github.com/hirosystems/chainhook/archive/refs/tags/v1.7.0.tar.gz"
-  sha256 "f59873691dbc4f1766f9cbc99f6bde02dd7934fad78caac89c1a70b94cf7ebf1"
+  url "https://github.com/hirosystems/chainhook/archive/refs/tags/v1.8.0.tar.gz"
+  sha256 "5d1ea1ad91585d440cf56d0293541593294b70cbf59172957ff53b5598be874d"
   license "GPL-3.0-only"
   head "https://github.com/hirosystems/chainhook.git", branch: "develop"
 
